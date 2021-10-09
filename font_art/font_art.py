@@ -1,13 +1,8 @@
-"""
-Prints user input in the terminal in an artistic font.
-Relies on pyfiglet package
-
+# Prints user input in the terminal in an artistic font.
+# Relies on pyfiglet package
 # $ pip install pyfiglet
-"""
-# import os
+
 from pyfiglet import Figlet
-
-
 
 text = Figlet(font='slant')
 
