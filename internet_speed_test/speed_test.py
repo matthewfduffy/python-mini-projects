@@ -6,6 +6,6 @@ from speedtest import Speedtest
 st = Speedtest()
 
 
-
-print("Your connection's download is:", st.download())
-st.upload()
+print("Running speed test...")
+print("Your connection's download speed is: ", st.download())
+print("Your connection's upload speed is: ", st.upload())
