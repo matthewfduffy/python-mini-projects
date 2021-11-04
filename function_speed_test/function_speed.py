@@ -14,3 +14,5 @@ def add(x,y):
 
 
 print(add(2,5))
+# Elapsed time is 6.4373016357421875e-06 ms
+# 7
