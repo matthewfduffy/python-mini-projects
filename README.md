@@ -1,1 +1,1 @@
-## Collection of minor Python projects
+## Collection of Python projects, utilities, programs
